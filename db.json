@@ -1,14 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"employees":[
+{
+"firstname" : "John",
+"age" : 30,
+"mail" : "jong@gmail.com"
+},
+{
+"firstname" : "Jimmy",
+"age" : 25,
+"mail" : "jimmy@gmail.com"
+},
+{
+"firstname" : "Jenny",
+"age" : 22,
+"mail" : "jenny@gmail.com"
+},
+{
+"firstname" : "Jeremy",
+"age" : 40,
+"mail" : "jeremy@gmail.com"
+},
+{
+"firstname" : "Justin",
+"age" : 32,
+"mail" : "justin@gmail.com"
+}
+]
 }
